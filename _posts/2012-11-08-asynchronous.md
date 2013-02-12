@@ -5,7 +5,7 @@ title: Don&rsquo;t Make Me Wait
 author: Chad Mazzola
 ---
 
-Well-designed software doesn't allow the details of its technical implementation dictate or degrade the user experience.
+Well-designed software doesn't allow the details of its technical implementation to dictate or degrade the user experience.
 
 One of the most pervasive violations of this principle is the request/response model used by most web applications. Users are forced to submit each change to the server and wait for a response and subsequent page reload. [Alan Cooper](http://en.wikipedia.org/wiki/Alan_Cooper) calls this model "archaic."
 
